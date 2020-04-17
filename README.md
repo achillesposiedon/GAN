@@ -1,1 +1,2 @@
-Repo for implementing Generative Adverasial Networks
+Repo for implementing Generative Adverasial Networks.
+
